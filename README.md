@@ -1,8 +1,9 @@
-# FCC-Drum-Machine
+# Drum Machine FreeCodeCamp
+-[Live Demo](https://freecodecampdrummachine.netlify.app/)
 
-#Technology Stack
+## Technology Stack
 1. You can use any mix of HTML, JavaScript, CSS, Bootstrap, SASS, React, Redux, and jQuery to complete this project. You should use a frontend framework (like React for example) because this section is about learning frontend frameworks. Additional technologies not listed above are not recommended and using them is at your own risk. We are looking at supporting other frontend frameworks like Angular and Vue, but they are not currently supported. We will accept and try to fix all issue reports that use the suggested technology stack for this project. Happy coding!
-#Tests
+## Tests
 1. I should be able to see an outer container with a corresponding id="drum-machine" that contains all other elements
 2. Within #drum-machine I can see an element with corresponding id="display".
 3. Within #drum-machine I can see 9 clickable "drum pad" elements, each with a class name of "drum-pad", a unique id that describes the audio clip the drum pad will be set up to trigger, and an inner text that corresponds to one of the following keys on the keyboard: Q, W, E, A, S, D, Z, X, C. The drum pads MUST be in this order.42ms
